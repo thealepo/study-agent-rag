@@ -3,6 +3,8 @@
 A small, from-scratch **RAG-powered AI Study Agent** that lets you upload a PDF, 
 ask questions about it, and turn the material into an interactive study session.
 
+<img width="5414" height="3909" alt="Image" src="https://github.com/user-attachments/assets/a7339cae-c87d-4de8-966b-f0d5fa11841c" />
+
 ## What it does
 
 - Extracts text from a PDF with PyMuPDF
